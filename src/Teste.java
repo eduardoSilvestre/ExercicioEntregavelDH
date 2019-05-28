@@ -33,14 +33,14 @@ public class Teste {
         System.out.println("***********************************************************");
         digitalHouseManager.matricularAluno(256, 20002);
         System.out.println("***********************************************************");
-        digitalHouseManager.matricularAluno(257, 20002);
+        digitalHouseManager.matricularAluno(257, 20001);
         System.out.println("***********************************************************");
         digitalHouseManager.matricularAluno(258, 20001);
         System.out.println("***********************************************************");
         digitalHouseManager.matricularAluno(259, 20001);
         System.out.println("***********************************************************");
 
-        digitalHouseManager.alunoConsultarCurso(250);
+        digitalHouseManager.alunoConsultarCurso(257);
 
     }
 }
